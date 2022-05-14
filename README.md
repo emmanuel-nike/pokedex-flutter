@@ -4,6 +4,10 @@ Welcome to the **Pokedex** project!
 
 A Flutter application that allows interacting with Pokemons. I hope you like it!
 
+| ![All Pokemons Page](assets/images/page1.jpg "All Pokemons Page") | ![Favorites Page](assets/images/page2.jpg "Favorites Page") |
+|-------------------|------------------|
+| ![Pokemons Detail Page](assets/images/page3.jpg "Pokemons Detail Page") | ![Pokemons Detail Page](assets/images/page4.jpg "Pokemons Detail Page") |
+
 ## Project Details
 
 ### Designs
